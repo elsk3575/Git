@@ -30,8 +30,9 @@ cd ./Desktop
 ```
 
 ####Parent Directory
-```..```
+To access the parent Dir use the ```..``` to reference it.
 
+Example
 ```shell
 cd..		# Goes to the Parent Folder (directory)
 ```
